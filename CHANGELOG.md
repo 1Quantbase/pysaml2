@@ -1,5 +1,9 @@
 # Changelog
 
+## v7.5.5 (2026-01-23)
+
+- Removes dependency on pyopenssl
+
 
 ## v7.5.4 (2025-10-07)
 
